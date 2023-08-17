@@ -1,0 +1,21 @@
+.banner{
+    text-align: center;
+    border-radius: 3px;
+    border:1px solid black;
+    width: 30%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    padding: 30px;
+    margin: 150px 400px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: cadetblue;
+    
+}
+.btn{
+    background-color: darkslategrey;
+    border-radius: 3px;
+}
